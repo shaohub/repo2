@@ -8,6 +8,7 @@ public class Debug {
             System.out.println(i);
         }
         System.out.println(123);
+        System.out.println(456);
         HashMap<String, String> map = new HashMap<>();
         map.put("name","shao");
         map.put("age","22");
